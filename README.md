@@ -23,4 +23,4 @@ Oculus SDK v0.2.5 is used. For future SDK updates, sign up at https://developer.
 
 OSCTest
 
-This is a Unity Pro (4.2.2) project that includes a prebuilt scene for placing objects. It uses the UnityOSC (https://github.com/jorgegarcia/UnityOSC) code to add OSC functionality to the world. 
+This is a Unity Pro (4.2.2) project that includes a prebuilt scene for placing objects. It uses the UnityOSC (https://github.com/jorgegarcia/UnityOSC) code to add OSC functionality to the world. The unityOSC.maxpat patcher brings in tracking data from the transLAB and sends it out over OSC.
