@@ -17,3 +17,10 @@ You can also set the Mac Screen Mode to "FullWindow" in the Build Settings > Pla
 The HMD resolution should be set to 1280 x 800 and you should mirror your display.
 
 Oculus SDK v0.2.5 is used. For future SDK updates, sign up at https://developer.oculusvr.com.
+
+
+--
+
+OSCTest
+
+This is a Unity Pro (4.2.2) project that includes a prebuilt scene for placing objects. It uses the UnityOSC (https://github.com/jorgegarcia/UnityOSC) code to add OSC functionality to the world. 

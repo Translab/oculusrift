@@ -33,3 +33,8 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Work Folders
+######################
+/prototypes
+/archive
